@@ -1,0 +1,5 @@
+#No version requirements
+flask
+flask-ask
+unidecode
+requests
